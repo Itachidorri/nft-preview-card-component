@@ -24,8 +24,26 @@ ul{
 li{
   font-size: 14px;
   list-style: none;
+  height: 1em;
+  width: auto;
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding-left: 15px;
 }
 
+.currency{
+  float: left;
+  font-weight: bold;
+  background-image: url(../img/icon-ethereum.svg);
+}
+
+.timer{
+  float: right;
+  background-image: url(../img/icon-clock.svg);
+}
+
+/*Another way to style lists*/
+/*
 li::before{
   content: '';
   display: inline-block;
@@ -52,6 +70,7 @@ li::before{
     background-image: url(../img/icon-clock.svg);
     padding-left: 3px;
 }
+*/
 
 .container{
   width: 240px;
