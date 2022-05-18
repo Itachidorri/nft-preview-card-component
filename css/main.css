@@ -4,9 +4,10 @@ body{
   background-color: rgb(20, 24, 46);
 }
 
-h3{
+h1{
   color: white;
   margin-bottom: 0px;
+  font-size: 20px;
 }
 
 p {
@@ -73,8 +74,7 @@ li::before{
 */
 
 .container{
-  width: 240px;
-  height: 430px;
+  max-width: 240px;
   background-color: rgb(38, 44, 74);
   border-radius: 10px;
   padding: 15px;
@@ -85,7 +85,6 @@ li::before{
 }
 
 .picture{
- height: 56%;
  position: relative;
  border-radius: 5%;
 }
@@ -125,9 +124,8 @@ li::before{
 }
 
 .content{
-  height: 28%;
   border-bottom: 1px rgb(59, 71, 102) solid;
-  padding-bottom: 0px;
+  padding-bottom: 30px;
 }
 
 .pp{
@@ -150,5 +148,5 @@ li::before{
 }
 
 .card-footer{
-  margin-top: 10px;
+  margin-top: 15px;
 }
