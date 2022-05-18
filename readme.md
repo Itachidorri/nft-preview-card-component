@@ -119,7 +119,7 @@ Here, to create such effect, a new division is created alongside the '<img class
 }
 ```
 
-Here, the class 'hover' can be used on any portion of the webpage as per user's want.
+Here, the class 'hover' can be used on any portion of the webpage as per user's need/want.
 
 
 ### Continued development
