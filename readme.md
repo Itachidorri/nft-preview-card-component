@@ -124,7 +124,9 @@ Here, the class 'hover' can be used on any portion of the webpage as per user's 
 
 ### Continued development
 
-To gain proper understanding of making an image appear when hovered on something.
+- To gain proper understanding of making an image appear when hovered on something.
+- Get better understanding of float & clear properties.
+- Learn responsive web design
 
 
 ### Useful resources
@@ -132,6 +134,8 @@ To gain proper understanding of making an image appear when hovered on something
 - [Google fonts](https://fonts.google.com/specimen/Outfit) - This helped to use a variety of fonts to beautify a website.
 
 - [W3 schools](https://www.w3schools.com) - A nice website to learn bothe basic & clever 'HTML' & 'CSS' tricks.
+
+- [Stack developer](https://stackoverflow.com/) - Community of tech professionals, where you'll probably find answers to your project obstacles or errors. 
 
 
 ## Author
